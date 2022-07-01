@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de7b8714-a4ce-43ca-bf3b-7d003c01c1b9" name="Changes" comment="" />
+    <list default="true" id="de7b8714-a4ce-43ca-bf3b-7d003c01c1b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week8/Week8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day5/Replit66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day5/ReplitNastedloop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replit/NumbersNatedforloop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replit/Replit66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/$PATTERN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/ArrayInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/CharArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/EvenArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/HigestNumberInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/Int2Darrayprint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/IntArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/IntArraynumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/Print2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/Replit66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/ReplitNastedloop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/StringArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/SumOf2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/SumOf2Drows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/SumOfIndexOverTheRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week5/SumOfNegativeAndOddArray2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/CarClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/CreatObject86.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/DogClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/Language.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/PalindromicStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/ReplaceAllstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/ReverseByLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringArray3LetterPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringBuffeUpperCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringBuilderReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringEmpty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringEndWith.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringInLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringMuniplition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringSpaceBetween.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringSubStringMun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringToLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringTwoFirstLatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringWebsides.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/StringvowelsLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/Substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/SubstringTwoletters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week6/reverseloop.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +63,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -22,56 +74,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.StringBuilderReverse">
-    <configuration name="StringArray3LetterPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringArray3LetterPrint" />
-      <module name="Week6" />
+}]]></component>
+  <component name="RunManager" selected="Application.Varibles">
+    <configuration name="Mehod5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mehod5" />
+      <module name="Week8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuffeUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringBuffeUpperCase" />
-      <module name="Week6" />
+    <configuration name="MehtodReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MehtodReplace" />
+      <module name="Week8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringBuilderReverse" />
-      <module name="Week6" />
+    <configuration name="MethodInstanceV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodInstanceV" />
+      <module name="Week8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSpaceBetween" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringSpaceBetween" />
-      <module name="Week6" />
+    <configuration name="MethodSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodSpace" />
+      <module name="Week8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringvowelsLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringvowelsLetters" />
-      <module name="Week6" />
+    <configuration name="Varibles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Varibles" />
+      <module name="Week8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringBuilderReverse" />
-        <item itemvalue="Application.StringBuffeUpperCase" />
-        <item itemvalue="Application.StringvowelsLetters" />
-        <item itemvalue="Application.StringArray3LetterPrint" />
-        <item itemvalue="Application.StringSpaceBetween" />
+        <item itemvalue="Application.Varibles" />
+        <item itemvalue="Application.MethodInstanceV" />
+        <item itemvalue="Application.MehtodReplace" />
+        <item itemvalue="Application.MethodSpace" />
+        <item itemvalue="Application.Mehod5" />
       </list>
     </recent_temporary>
   </component>
@@ -85,5 +141,16 @@
       <updated>1654797699036</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
